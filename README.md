@@ -7,7 +7,7 @@
 　　　✦ 　　　　　　　✦
 ```
 
-# ♡ &nbsp; VamPortfolio &nbsp; ♡
+#  &nbsp; VamPortfolio &nbsp; 
 
 **a personal portfolio — built in react + vite**
 
@@ -86,10 +86,6 @@ VamPortfolio/
 ---
 
 <div align="center">
-
-```
-　　　　♡ made with love ♡
-```
 
 _freelance work · 2024 · published with owner's permission_
 
